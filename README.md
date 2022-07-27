@@ -1,3 +1,3 @@
-# web-platform-hqo6g5
+# Milo web page
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hqo6g5)
+Deploy using server if you need help contact me
